@@ -1,5 +1,7 @@
 # Zotero Duplicate Merge Manager Plugin
 
+![Duplicate Merge Manager logo](icons/icon-128.png)
+
 一个独立的 Zotero 插件，用于识别并保守处理可能重复的独立条目。
 
 ## 功能
@@ -19,6 +21,10 @@
 - 可在确认后将候选条目合并到查询条目
 - 可在确认后合并当前选中项中的同题目组
 - 可在确认后把候选条目或同题目组非保留项移入 Zotero 回收站
+
+## Logo
+
+插件内置一个“重复文献卡片 + 合并箭头 + 保留确认”的图标，用来表达识别可能重复条目、合并到保留条目以及确认式管理的功能。
 
 ## 匹配规则
 
@@ -47,7 +53,7 @@ bash build.sh
 
 构建产物会出现在：
 
-- `dist/zotero-duplicate-merge-manager-plugin-0.5.0.xpi`
+- `dist/zotero-duplicate-merge-manager-plugin-0.5.1.xpi`
 
 ## 安装
 

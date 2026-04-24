@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <title>Duplicate Merge Manager</title>
+  <rect x="10" y="12" width="108" height="104" rx="24" fill="#f8fafc"/>
+  <rect x="25" y="25" width="43" height="58" rx="8" fill="#ffffff" stroke="#3f4b5b" stroke-width="5"/>
+  <rect x="36" y="38" width="24" height="5" rx="2.5" fill="#d93025"/>
+  <rect x="36" y="51" width="24" height="5" rx="2.5" fill="#d93025"/>
+  <rect x="36" y="64" width="16" height="5" rx="2.5" fill="#d93025"/>
+  <rect x="60" y="45" width="43" height="58" rx="8" fill="#ffffff" stroke="#3f4b5b" stroke-width="5"/>
+  <rect x="71" y="58" width="24" height="5" rx="2.5" fill="#1a73e8"/>
+  <rect x="71" y="71" width="24" height="5" rx="2.5" fill="#1a73e8"/>
+  <rect x="71" y="84" width="16" height="5" rx="2.5" fill="#1a73e8"/>
+  <path d="M44 91c18 13 35 13 51 0" fill="none" stroke="#188038" stroke-width="7" stroke-linecap="round"/>
+  <path d="M90 82l8 9-10 8" fill="none" stroke="#188038" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="88" cy="34" r="15" fill="#188038" stroke="#ffffff" stroke-width="4"/>
+  <path d="M80 34l6 6 11-13" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

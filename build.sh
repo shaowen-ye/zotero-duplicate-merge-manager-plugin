@@ -21,6 +21,7 @@ rm -f "$XPI_PATH"
 cd "$ROOT_DIR"
 zip -r "$XPI_PATH" \
   manifest.json \
+  icons \
   bootstrap.js \
   duplicate-merge-manager-plugin.js \
   README.md
