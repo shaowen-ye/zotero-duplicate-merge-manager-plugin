@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Duplicate Merge Manager",
+  "version": "0.5.0",
+  "description": "Find and safely manage likely duplicate Zotero items.",
+  "applications": {
+    "zotero": {
+      "id": "duplicate-merge-manager@plugin.local",
+      "update_url": "https://example.com/zotero-duplicate-merge-manager-plugin/updates.json",
+      "strict_min_version": "7.0",
+      "strict_max_version": "7.0.*"
+    }
+  }
+}
